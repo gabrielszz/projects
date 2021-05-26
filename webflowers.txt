@@ -1,0 +1,16 @@
+Sistema de Loja Virtual Desenvolvido em PHP, 
+
+Mecânicas:
+
+- Integração com API de pagamento transparente utilizando Pagseguro
+- Carrinho de compras para usuário logado utilizando base de dados
+- Carrinho de compras para usuário visitante utilizando variável de sessão
+- Administração de comteúdo através de base de dados
+- Configuração de Produtos Destacados atráves da base de dados
+- Menu administravel, atráves do painel de controle
+- Painel de controle dinâmico responsavel por editar produtos, páginas e até mesmo o menu
+- Sistema de Login 
+- Login Criptografado
+- Função de Anti SQL Injecton
+- Base de Dados MYSQL
+- Layout Responsivo
