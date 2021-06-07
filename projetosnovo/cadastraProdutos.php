@@ -9,7 +9,7 @@ $descricao = $_POST['descricao'];
 $categoria = $_POST['id_categoria'];
 
 functionCadastraProduto(){
-  #sql = "Insert into PRODUTOS(nome, status, preco, descricao, categoria)values('$nome', '$status', '$preco', '$descricao', '$categoria');
+  $sql = "Insert into PRODUTOS(nome, status, preco, descricao, categoria)values('$nome', '$status', '$preco', '$descricao', '$categoria');
 }
 functionAlteraProduto(){
   $sql = "Update PRODUTOS set nome = '$nome', status = '$status', preco = '$preco', descricao = '$descricao', categoria = '$categoria' where id like '$id';
