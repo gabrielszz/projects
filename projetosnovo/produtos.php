@@ -1,4 +1,4 @@
-
+$categoria = $_POST['id'];
 
 $sql = "Select * from PRODUTOS where CATEGORIA like '$categoria' and status like '1';
 $rs = mysqli_query($sql, $conexaoSelect);
