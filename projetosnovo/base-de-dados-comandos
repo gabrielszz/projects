@@ -1,0 +1,16 @@
+CREATE TABLE `sistema_pedidos`.`categorias` (
+`id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+`nome` VARCHAR( 255 ) NOT NULL ,
+`descricao` TEXT NOT NULL ,
+`status` INT NOT NULL
+) ENGINE = MYISAM ;
+
+
+CREATE TABLE `sistema_pedidos`.`produtos` (
+`id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+`nome` VARCHAR( 255 ) NOT NULL ,
+`quantidade` INT(10) NOT NULL,
+`descricao` TEXT NOT NULL ,
+`status` INT(1) NOT NULL,
+`id_categoria` INT(1) NOT NULL
+) ENGINE = MYISAM ;
