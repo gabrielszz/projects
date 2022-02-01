@@ -1,0 +1,4 @@
+instrução sql para ver registros que possuem o mesmo valor em ua determinada coluna.
+
+
+select `prod_cod`, count() from cf_produto group by `prod_cod` having count() > 1
