@@ -1,0 +1,1470 @@
+{
+    "limit": 50,
+    "offset": 0,
+    "page": 1,
+    "pages": 1,
+    "total": 9,
+    "produtos": {
+        "2833": {
+            "id": "2833",
+            "sku": "26220",
+            "nome": "Cebola",
+            "inclusao": "2017-01-20 13:52:47",
+            "modificacao": "2020-10-06 15:25:20",
+            "revisado": 1,
+            "ativado": 1,
+            "empresa": "D'avó",
+            "empresaId": "1",
+            "categoria": "Hortifruti",
+            "categoriaId": "21",
+            "tags": {
+                "45": {
+                    "Campo": "Revisão E-commerce",
+                    "Valor": "Não"
+                },
+                "37": {
+                    "Campo": "EAN",
+                    "Valor": ""
+                },
+                "14": {
+                    "Campo": "Gramatura",
+                    "Valor": ""
+                },
+                "3": {
+                    "Campo": "Unidade",
+                    "Valor": "o quilo"
+                },
+                "15": {
+                    "Campo": "Complemento",
+                    "Valor": ""
+                },
+                "1": {
+                    "Campo": "Descrição",
+                    "Valor": ""
+                },
+                "38": {
+                    "Campo": "Descrição Curta",
+                    "Valor": ""
+                },
+                "41": {
+                    "Campo": "Descrição Longa",
+                    "Valor": ""
+                },
+                "2": {
+                    "Campo": "Marca",
+                    "Valor": ""
+                },
+                "39": {
+                    "Campo": "Fabricante",
+                    "Valor": ""
+                },
+                "40": {
+                    "Campo": "Nome Fantasia",
+                    "Valor": ""
+                },
+                "42": {
+                    "Campo": "Gramatura Simplus",
+                    "Valor": ""
+                },
+                "48": {
+                    "Campo": "Meta Title",
+                    "Valor": "Cebola o quilo"
+                },
+                "49": {
+                    "Campo": "Meta Description",
+                    "Valor": null
+                },
+                "46": {
+                    "Campo": "Palavras Chave",
+                    "Valor": null
+                },
+                "47": {
+                    "Campo": "Peso Variável",
+                    "Valor": null
+                }
+            },
+            "previews": [
+                {
+                    "id": "17232",
+                    "nome": "26220_CebolaKg.psd",
+                    "tipo": "imagem",
+                    "ordem": "1",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/_J4HYinxdatiyIIiHSRwaFdhVFHew_3fMGwOtvXtfQo/preview/h3EW7Hd4mGNaZYcUW7XtM5PmXlwYz8H5DjeuAj9VGFY/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/_J4HYinxdatiyIIiHSRwaFdhVFHew_3fMGwOtvXtfQo/preview/h3EW7Hd4mGNaZYcUW7XtM5PmXlwYz8H5DjeuAj9VGFY/canvas/true/preview.jpg"
+                }
+            ],
+            "arquivos": [
+                {
+                    "id": "17232",
+                    "nome": "26220_CebolaKg.psd",
+                    "tipo": "imagem",
+                    "ordem": "1",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/_J4HYinxdatiyIIiHSRwaFdhVFHew_3fMGwOtvXtfQo/arquivo/h3EW7Hd4mGNaZYcUW7XtM5PmXlwYz8H5DjeuAj9VGFY/26220_CebolaKg.psd"
+                }
+            ]
+        },
+        "19351": {
+            "id": "19351",
+            "sku": "2622025",
+            "nome": "Manta Jolitex",
+            "inclusao": "2020-08-31 13:06:31",
+            "modificacao": "2020-09-02 09:05:56",
+            "revisado": 1,
+            "ativado": 1,
+            "empresa": "D'avó",
+            "empresaId": "1",
+            "categoria": "Bazar",
+            "categoriaId": "14",
+            "tags": {
+                "45": {
+                    "Campo": "Revisão E-commerce",
+                    "Valor": "Não"
+                },
+                "37": {
+                    "Campo": "EAN",
+                    "Valor": ""
+                },
+                "14": {
+                    "Campo": "Gramatura",
+                    "Valor": "180 cm X 220 cm"
+                },
+                "3": {
+                    "Campo": "Unidade",
+                    "Valor": "cada"
+                },
+                "15": {
+                    "Campo": "Complemento",
+                    "Valor": ""
+                },
+                "1": {
+                    "Campo": "Descrição",
+                    "Valor": ""
+                },
+                "38": {
+                    "Campo": "Descrição Curta",
+                    "Valor": ""
+                },
+                "41": {
+                    "Campo": "Descrição Longa",
+                    "Valor": ""
+                },
+                "2": {
+                    "Campo": "Marca",
+                    "Valor": ""
+                },
+                "39": {
+                    "Campo": "Fabricante",
+                    "Valor": ""
+                },
+                "40": {
+                    "Campo": "Nome Fantasia",
+                    "Valor": ""
+                },
+                "42": {
+                    "Campo": "Gramatura Simplus",
+                    "Valor": ""
+                },
+                "48": {
+                    "Campo": "Meta Title",
+                    "Valor": "Manta Jolitex 180 cm X 220 cm"
+                },
+                "49": {
+                    "Campo": "Meta Description",
+                    "Valor": null
+                },
+                "46": {
+                    "Campo": "Palavras Chave",
+                    "Valor": null
+                },
+                "47": {
+                    "Campo": "Peso Variável",
+                    "Valor": null
+                }
+            },
+            "previews": [
+                {
+                    "id": "213205",
+                    "nome": "2622025_Manta_Jolitex.psd",
+                    "tipo": "imagem",
+                    "ordem": "1",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/wlANRKR6tbmesETe001THpE6ceB6IkIVntpHJJbg8sk/preview/euuEjy1JNSCfi2gmOsWHCp3iOdnypBF60tgmVc4wZqw/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/wlANRKR6tbmesETe001THpE6ceB6IkIVntpHJJbg8sk/preview/euuEjy1JNSCfi2gmOsWHCp3iOdnypBF60tgmVc4wZqw/canvas/true/preview.jpg"
+                }
+            ],
+            "arquivos": [
+                {
+                    "id": "213205",
+                    "nome": "2622025_Manta_Jolitex.psd",
+                    "tipo": "imagem",
+                    "ordem": "1",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/wlANRKR6tbmesETe001THpE6ceB6IkIVntpHJJbg8sk/arquivo/euuEjy1JNSCfi2gmOsWHCp3iOdnypBF60tgmVc4wZqw/2622025_Manta_Jolitex.psd"
+                }
+            ]
+        },
+        "27928": {
+            "id": "27928",
+            "sku": "2622033",
+            "nome": "MANTA JOLITEX DYURI 220X240 AZUL JEANS",
+            "inclusao": "2020-09-02 14:49:05",
+            "modificacao": "2020-09-02 13:00:38",
+            "revisado": 0,
+            "ativado": 1,
+            "empresa": "D'avó",
+            "empresaId": "1",
+            "categoria": "Têxtil",
+            "categoriaId": "16",
+            "tags": {
+                "45": {
+                    "Campo": "Revisão E-commerce",
+                    "Valor": "Não"
+                },
+                "37": {
+                    "Campo": "EAN",
+                    "Valor": "7896176844974"
+                },
+                "14": {
+                    "Campo": "Gramatura",
+                    "Valor": null
+                },
+                "3": {
+                    "Campo": "Unidade",
+                    "Valor": null
+                },
+                "15": {
+                    "Campo": "Complemento",
+                    "Valor": null
+                },
+                "1": {
+                    "Campo": "Descrição",
+                    "Valor": null
+                },
+                "38": {
+                    "Campo": "Descrição Curta",
+                    "Valor": null
+                },
+                "41": {
+                    "Campo": "Descrição Longa",
+                    "Valor": null
+                },
+                "2": {
+                    "Campo": "Marca",
+                    "Valor": null
+                },
+                "39": {
+                    "Campo": "Fabricante",
+                    "Valor": null
+                },
+                "40": {
+                    "Campo": "Nome Fantasia",
+                    "Valor": null
+                },
+                "42": {
+                    "Campo": "Gramatura Simplus",
+                    "Valor": null
+                },
+                "48": {
+                    "Campo": "Meta Title",
+                    "Valor": "MANTA JOLITEX DYURI 220X240 AZUL JEANS "
+                },
+                "49": {
+                    "Campo": "Meta Description",
+                    "Valor": null
+                },
+                "46": {
+                    "Campo": "Palavras Chave",
+                    "Valor": null
+                },
+                "47": {
+                    "Campo": "Peso Variável",
+                    "Valor": null
+                }
+            },
+            "previews": [],
+            "arquivos": []
+        },
+        "27929": {
+            "id": "27929",
+            "sku": "2622068",
+            "nome": "LIMP VEJA BANHEIRO ANTIBAC PULV.500ML",
+            "inclusao": "2020-09-02 14:49:05",
+            "modificacao": "2020-09-04 10:14:00",
+            "revisado": 0,
+            "ativado": 1,
+            "empresa": "D'avó",
+            "empresaId": "1",
+            "categoria": "Limpeza",
+            "categoriaId": "6",
+            "tags": {
+                "45": {
+                    "Campo": "Revisão E-commerce",
+                    "Valor": "Não"
+                },
+                "37": {
+                    "Campo": "EAN",
+                    "Valor": "7891035000041"
+                },
+                "14": {
+                    "Campo": "Gramatura",
+                    "Valor": null
+                },
+                "3": {
+                    "Campo": "Unidade",
+                    "Valor": null
+                },
+                "15": {
+                    "Campo": "Complemento",
+                    "Valor": null
+                },
+                "1": {
+                    "Campo": "Descrição",
+                    "Valor": "Branqueador Banheiro Veja Antibac Frasco 500ml Borrifador"
+                },
+                "38": {
+                    "Campo": "Descrição Curta",
+                    "Valor": "Veja,Br,Vj Ban Oxi Gat 12 x 500"
+                },
+                "41": {
+                    "Campo": "Descrição Longa",
+                    "Valor": "Branqueador Banheiro sem Cloro Oxi Ativo Veja Antibac Frasco 500ml Borrifador"
+                },
+                "2": {
+                    "Campo": "Marca",
+                    "Valor": "Veja"
+                },
+                "39": {
+                    "Campo": "Fabricante",
+                    "Valor": "RECKITT BENCKISER (BRASIL) COMERCIAL DE PRODUTOS DE HIGIENE, LIMPEZA E COSMETICOS LTDA."
+                },
+                "40": {
+                    "Campo": "Nome Fantasia",
+                    "Valor": "RB"
+                },
+                "42": {
+                    "Campo": "Gramatura Simplus",
+                    "Valor": ""
+                },
+                "48": {
+                    "Campo": "Meta Title",
+                    "Valor": "Branqueador Banheiro Veja Antibac Frasco 500ml Borrifador"
+                },
+                "49": {
+                    "Campo": "Meta Description",
+                    "Valor": null
+                },
+                "46": {
+                    "Campo": "Palavras Chave",
+                    "Valor": null
+                },
+                "47": {
+                    "Campo": "Peso Variável",
+                    "Valor": null
+                }
+            },
+            "previews": [
+                {
+                    "id": "272960",
+                    "nome": "7891035000041_1_1_1772_300_RGB.psd",
+                    "tipo": "imagem",
+                    "ordem": "1",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/NlFkKABkbZt3-Os4y4Fv3D1zHAIetpZqoEKYp3gwI5Q/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/NlFkKABkbZt3-Os4y4Fv3D1zHAIetpZqoEKYp3gwI5Q/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272966",
+                    "nome": "7891035000041_1_1_1200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "1",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/0ftuo1hmi9XoEAj5vbrNLll6xel4T21BX3suXL4ozMU/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/0ftuo1hmi9XoEAj5vbrNLll6xel4T21BX3suXL4ozMU/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272967",
+                    "nome": "7891035000041_33_1_200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "2",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/Yvc9zYiN3zk6q9O0F6SRR_jjj-28BO7UtVV4XnEDMDg/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/Yvc9zYiN3zk6q9O0F6SRR_jjj-28BO7UtVV4XnEDMDg/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272961",
+                    "nome": "7891035000041_33_1_1772_300_RGB.psd",
+                    "tipo": "imagem",
+                    "ordem": "2",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/DAmaBLrl783qXySt66_DYbr96lTwkGq9DaPRW7Z_0MA/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/DAmaBLrl783qXySt66_DYbr96lTwkGq9DaPRW7Z_0MA/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272968",
+                    "nome": "7891035000041_33_1_1200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "3",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/ykNjtYKRkgVrIxT-nQuu7FvnCar8KqQOjlzmpRn63XE/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/ykNjtYKRkgVrIxT-nQuu7FvnCar8KqQOjlzmpRn63XE/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272962",
+                    "nome": "7891035000041_33_1_3000_300_RGB.tif",
+                    "tipo": "imagem",
+                    "ordem": "3",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/3oBz78nwY_WJKrL7eziwwtBmJ67pLHyjkRqcGIo8YTc/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/3oBz78nwY_WJKrL7eziwwtBmJ67pLHyjkRqcGIo8YTc/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272963",
+                    "nome": "7891035000041_1_1_1200_300_CMYK.tif",
+                    "tipo": "imagem",
+                    "ordem": "4",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/0gJxlFwPrcpkhHaGcV-B_A82Msdkp6OqIZVAzNQvTao/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/0gJxlFwPrcpkhHaGcV-B_A82Msdkp6OqIZVAzNQvTao/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272969",
+                    "nome": "7891035000041_26_1_600_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "4",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/vwOW9P_C3GTtKClk9pkxasBfj_2Zv6_FHR9gVcfvmso/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/vwOW9P_C3GTtKClk9pkxasBfj_2Zv6_FHR9gVcfvmso/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272964",
+                    "nome": "7891035000041_33_1_1200_300_CMYK.tif",
+                    "tipo": "imagem",
+                    "ordem": "5",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/lABIdUrkHc0THzQmj7NLrq_8Sm0S245uVDvvgezWzzc/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/lABIdUrkHc0THzQmj7NLrq_8Sm0S245uVDvvgezWzzc/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272970",
+                    "nome": "7891035000041_1_1_200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "5",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/HdPlderInCfBXe3Y7I_HFmCgFZrUaBSzjNi2JYj0CUc/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/HdPlderInCfBXe3Y7I_HFmCgFZrUaBSzjNi2JYj0CUc/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272965",
+                    "nome": "7891035000041_1_1_3000_300_RGB.tif",
+                    "tipo": "imagem",
+                    "ordem": "6",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/aPyyflKIXkQ59eXSN0VKTt0bQ7BYgqYCYFXGcHKO644/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/aPyyflKIXkQ59eXSN0VKTt0bQ7BYgqYCYFXGcHKO644/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272971",
+                    "nome": "7891035000041_1_1_1200_72_RGB.jpg",
+                    "tipo": "web",
+                    "ordem": "6",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/HlNdp2nSfUmqSx7QQQP48TJ8lHf3d_BgEIRZb75raf8/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/HlNdp2nSfUmqSx7QQQP48TJ8lHf3d_BgEIRZb75raf8/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272972",
+                    "nome": "7891035000041_33_1_1200_72_RGB.jpg",
+                    "tipo": "web",
+                    "ordem": "7",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/bClOU-WPFZizacuMbS9ZzAt5Am_T5tn0IUNK7vHlS54/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/bClOU-WPFZizacuMbS9ZzAt5Am_T5tn0IUNK7vHlS54/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272973",
+                    "nome": "7891035000041_33_1_70_72_RGB.gif",
+                    "tipo": "web",
+                    "ordem": "8",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/d8BmBgenFstRHDupXVaZtSF-3Vplp8gLAWX-8SGzm-k/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/d8BmBgenFstRHDupXVaZtSF-3Vplp8gLAWX-8SGzm-k/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272974",
+                    "nome": "7891035000041_1_1_70_72_RGB.gif",
+                    "tipo": "web",
+                    "ordem": "9",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/_zLebMKvOHR48hTFDR9xgm0tvSXZIumE7wr0mMn7nyI/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/preview/_zLebMKvOHR48hTFDR9xgm0tvSXZIumE7wr0mMn7nyI/canvas/true/preview.jpg"
+                }
+            ],
+            "arquivos": [
+                {
+                    "id": "272960",
+                    "nome": "7891035000041_1_1_1772_300_RGB.psd",
+                    "tipo": "imagem",
+                    "ordem": "1",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/arquivo/NlFkKABkbZt3-Os4y4Fv3D1zHAIetpZqoEKYp3gwI5Q/7891035000041_1_1_1772_300_RGB.psd"
+                },
+                {
+                    "id": "272966",
+                    "nome": "7891035000041_1_1_1200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "1",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/arquivo/0ftuo1hmi9XoEAj5vbrNLll6xel4T21BX3suXL4ozMU/7891035000041_1_1_1200_72_RGB.png"
+                },
+                {
+                    "id": "272967",
+                    "nome": "7891035000041_33_1_200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "2",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/arquivo/Yvc9zYiN3zk6q9O0F6SRR_jjj-28BO7UtVV4XnEDMDg/7891035000041_33_1_200_72_RGB.png"
+                },
+                {
+                    "id": "272961",
+                    "nome": "7891035000041_33_1_1772_300_RGB.psd",
+                    "tipo": "imagem",
+                    "ordem": "2",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/arquivo/DAmaBLrl783qXySt66_DYbr96lTwkGq9DaPRW7Z_0MA/7891035000041_33_1_1772_300_RGB.psd"
+                },
+                {
+                    "id": "272968",
+                    "nome": "7891035000041_33_1_1200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "3",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/arquivo/ykNjtYKRkgVrIxT-nQuu7FvnCar8KqQOjlzmpRn63XE/7891035000041_33_1_1200_72_RGB.png"
+                },
+                {
+                    "id": "272962",
+                    "nome": "7891035000041_33_1_3000_300_RGB.tif",
+                    "tipo": "imagem",
+                    "ordem": "3",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/arquivo/3oBz78nwY_WJKrL7eziwwtBmJ67pLHyjkRqcGIo8YTc/7891035000041_33_1_3000_300_RGB.tif"
+                },
+                {
+                    "id": "272963",
+                    "nome": "7891035000041_1_1_1200_300_CMYK.tif",
+                    "tipo": "imagem",
+                    "ordem": "4",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/arquivo/0gJxlFwPrcpkhHaGcV-B_A82Msdkp6OqIZVAzNQvTao/7891035000041_1_1_1200_300_CMYK.tif"
+                },
+                {
+                    "id": "272969",
+                    "nome": "7891035000041_26_1_600_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "4",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/arquivo/vwOW9P_C3GTtKClk9pkxasBfj_2Zv6_FHR9gVcfvmso/7891035000041_26_1_600_72_RGB.png"
+                },
+                {
+                    "id": "272964",
+                    "nome": "7891035000041_33_1_1200_300_CMYK.tif",
+                    "tipo": "imagem",
+                    "ordem": "5",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/arquivo/lABIdUrkHc0THzQmj7NLrq_8Sm0S245uVDvvgezWzzc/7891035000041_33_1_1200_300_CMYK.tif"
+                },
+                {
+                    "id": "272970",
+                    "nome": "7891035000041_1_1_200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "5",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/arquivo/HdPlderInCfBXe3Y7I_HFmCgFZrUaBSzjNi2JYj0CUc/7891035000041_1_1_200_72_RGB.png"
+                },
+                {
+                    "id": "272965",
+                    "nome": "7891035000041_1_1_3000_300_RGB.tif",
+                    "tipo": "imagem",
+                    "ordem": "6",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/arquivo/aPyyflKIXkQ59eXSN0VKTt0bQ7BYgqYCYFXGcHKO644/7891035000041_1_1_3000_300_RGB.tif"
+                },
+                {
+                    "id": "272971",
+                    "nome": "7891035000041_1_1_1200_72_RGB.jpg",
+                    "tipo": "web",
+                    "ordem": "6",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/arquivo/HlNdp2nSfUmqSx7QQQP48TJ8lHf3d_BgEIRZb75raf8/7891035000041_1_1_1200_72_RGB.jpg"
+                },
+                {
+                    "id": "272972",
+                    "nome": "7891035000041_33_1_1200_72_RGB.jpg",
+                    "tipo": "web",
+                    "ordem": "7",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/arquivo/bClOU-WPFZizacuMbS9ZzAt5Am_T5tn0IUNK7vHlS54/7891035000041_33_1_1200_72_RGB.jpg"
+                },
+                {
+                    "id": "272973",
+                    "nome": "7891035000041_33_1_70_72_RGB.gif",
+                    "tipo": "web",
+                    "ordem": "8",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/arquivo/d8BmBgenFstRHDupXVaZtSF-3Vplp8gLAWX-8SGzm-k/7891035000041_33_1_70_72_RGB.gif"
+                },
+                {
+                    "id": "272974",
+                    "nome": "7891035000041_1_1_70_72_RGB.gif",
+                    "tipo": "web",
+                    "ordem": "9",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/xaM8TMGHA3duBCTJacJQy-LCV-ThUOPfaj-wU03bojs/arquivo/_zLebMKvOHR48hTFDR9xgm0tvSXZIumE7wr0mMn7nyI/7891035000041_1_1_70_72_RGB.gif"
+                }
+            ]
+        },
+        "27930": {
+            "id": "27930",
+            "sku": "2622084",
+            "nome": "LIMP VEJA BANHEIRO ANTIB PULV.500ML 30%D",
+            "inclusao": "2020-09-02 14:49:05",
+            "modificacao": "2020-09-04 10:15:28",
+            "revisado": 0,
+            "ativado": 1,
+            "empresa": "D'avó",
+            "empresaId": "1",
+            "categoria": "Limpeza",
+            "categoriaId": "6",
+            "tags": {
+                "45": {
+                    "Campo": "Revisão E-commerce",
+                    "Valor": "Não"
+                },
+                "37": {
+                    "Campo": "EAN",
+                    "Valor": "7891035000089"
+                },
+                "14": {
+                    "Campo": "Gramatura",
+                    "Valor": null
+                },
+                "3": {
+                    "Campo": "Unidade",
+                    "Valor": null
+                },
+                "15": {
+                    "Campo": "Complemento",
+                    "Valor": null
+                },
+                "1": {
+                    "Campo": "Descrição",
+                    "Valor": "Branqueador Banheiro Veja Antibac Frasco 500ml Borrifador Grátis 30% de Desconto"
+                },
+                "38": {
+                    "Campo": "Descrição Curta",
+                    "Valor": "Veja,Br,Vj Prom Ban Pul 30%"
+                },
+                "41": {
+                    "Campo": "Descrição Longa",
+                    "Valor": "Branqueador Banheiro sem Cloro Oxi Ativo Veja Antibac Frasco 500ml Borrifador Grátis 30% de Desconto"
+                },
+                "2": {
+                    "Campo": "Marca",
+                    "Valor": "Veja"
+                },
+                "39": {
+                    "Campo": "Fabricante",
+                    "Valor": "RECKITT BENCKISER (BRASIL) COMERCIAL DE PRODUTOS DE HIGIENE, LIMPEZA E COSMETICOS LTDA."
+                },
+                "40": {
+                    "Campo": "Nome Fantasia",
+                    "Valor": "RB"
+                },
+                "42": {
+                    "Campo": "Gramatura Simplus",
+                    "Valor": ""
+                },
+                "48": {
+                    "Campo": "Meta Title",
+                    "Valor": "Branqueador Banheiro Veja Antibac Frasco 500ml Borrifador Grátis 30% de Desconto"
+                },
+                "49": {
+                    "Campo": "Meta Description",
+                    "Valor": null
+                },
+                "46": {
+                    "Campo": "Palavras Chave",
+                    "Valor": null
+                },
+                "47": {
+                    "Campo": "Peso Variável",
+                    "Valor": null
+                }
+            },
+            "previews": [
+                {
+                    "id": "272975",
+                    "nome": "7891035000089_1_1_1772_300_RGB.psd",
+                    "tipo": "imagem",
+                    "ordem": "1",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/pRB_IgHulNSbR-DC68hLSJQLRM6rFamPC9os7nnUBLk/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/pRB_IgHulNSbR-DC68hLSJQLRM6rFamPC9os7nnUBLk/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272981",
+                    "nome": "7891035000089_1_1_1200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "1",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/eSglcsqt6Sdquhs35g-RhW3cwvxxVpPY2zDPENT9YQQ/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/eSglcsqt6Sdquhs35g-RhW3cwvxxVpPY2zDPENT9YQQ/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272982",
+                    "nome": "7891035000089_33_1_200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "2",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/A579X8C8l06tNMzSI-NdXnhnru9hTRu6ULVbQncCcu8/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/A579X8C8l06tNMzSI-NdXnhnru9hTRu6ULVbQncCcu8/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272976",
+                    "nome": "7891035000089_33_1_1772_300_RGB.psd",
+                    "tipo": "imagem",
+                    "ordem": "2",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/2E-Og01Rc2AvsyUBz7BKgTyQMlivdVrCS_nB9dG-i6I/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/2E-Og01Rc2AvsyUBz7BKgTyQMlivdVrCS_nB9dG-i6I/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272983",
+                    "nome": "7891035000089_33_1_1200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "3",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/ijuTpbIPqobhf5c_s8nGAzlztDmRFqWPeo4W08ylVFI/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/ijuTpbIPqobhf5c_s8nGAzlztDmRFqWPeo4W08ylVFI/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272977",
+                    "nome": "7891035000089_33_1_3000_300_RGB.tif",
+                    "tipo": "imagem",
+                    "ordem": "3",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/1JRSn4Lo-Ks4l-WGVYTxoG65f71xJjvj_yAFxFtHVvk/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/1JRSn4Lo-Ks4l-WGVYTxoG65f71xJjvj_yAFxFtHVvk/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272978",
+                    "nome": "7891035000089_1_1_1200_300_CMYK.tif",
+                    "tipo": "imagem",
+                    "ordem": "4",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/6YNE0ahWzG2oNx9SiktktVagP0EVpiOialBMcMwbtmo/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/6YNE0ahWzG2oNx9SiktktVagP0EVpiOialBMcMwbtmo/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272984",
+                    "nome": "7891035000089_26_1_600_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "4",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/MO1CnwQKIvvuE6mmm7QYvo6V41ZVgz6YXoDdN62itRQ/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/MO1CnwQKIvvuE6mmm7QYvo6V41ZVgz6YXoDdN62itRQ/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272979",
+                    "nome": "7891035000089_33_1_1200_300_CMYK.tif",
+                    "tipo": "imagem",
+                    "ordem": "5",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/U0s275gqsCBH-suV_FZyccrn2pPPMrxp0yWXpGxy8Uw/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/U0s275gqsCBH-suV_FZyccrn2pPPMrxp0yWXpGxy8Uw/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272985",
+                    "nome": "7891035000089_1_1_200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "5",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/-MmIGxaeo1VcMUv7v5jwQ7rpfYdpMVk2AHe-KXeKuEE/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/-MmIGxaeo1VcMUv7v5jwQ7rpfYdpMVk2AHe-KXeKuEE/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272980",
+                    "nome": "7891035000089_1_1_3000_300_RGB.tif",
+                    "tipo": "imagem",
+                    "ordem": "6",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/B_biyYz5XrhF6RTqZhQUEqKTzJ1h4xFbbZFxusr5P-E/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/B_biyYz5XrhF6RTqZhQUEqKTzJ1h4xFbbZFxusr5P-E/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272986",
+                    "nome": "7891035000089_1_1_1200_72_RGB.jpg",
+                    "tipo": "web",
+                    "ordem": "6",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/OxWnP2Cl6M9lIQTj-SW7dbEdUZi4TIs99osEfSCcjW8/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/OxWnP2Cl6M9lIQTj-SW7dbEdUZi4TIs99osEfSCcjW8/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272987",
+                    "nome": "7891035000089_33_1_1200_72_RGB.jpg",
+                    "tipo": "web",
+                    "ordem": "7",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/LHz9seSmVn8wSxWqUyB4ZjX9mrxHOeOMMqaCRGkIkWI/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/LHz9seSmVn8wSxWqUyB4ZjX9mrxHOeOMMqaCRGkIkWI/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272988",
+                    "nome": "7891035000089_33_1_70_72_RGB.gif",
+                    "tipo": "web",
+                    "ordem": "8",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/G-OVB84u7CtVcELst5dw2fIitYvB8C4xYmgZW4hr5FE/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/G-OVB84u7CtVcELst5dw2fIitYvB8C4xYmgZW4hr5FE/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272989",
+                    "nome": "7891035000089_1_1_70_72_RGB.gif",
+                    "tipo": "web",
+                    "ordem": "9",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/VbyYBYzcDTpHJUwqKK3YuMcY2Z4Qksnrc5Q0UmxmxbI/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/preview/VbyYBYzcDTpHJUwqKK3YuMcY2Z4Qksnrc5Q0UmxmxbI/canvas/true/preview.jpg"
+                }
+            ],
+            "arquivos": [
+                {
+                    "id": "272975",
+                    "nome": "7891035000089_1_1_1772_300_RGB.psd",
+                    "tipo": "imagem",
+                    "ordem": "1",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/arquivo/pRB_IgHulNSbR-DC68hLSJQLRM6rFamPC9os7nnUBLk/7891035000089_1_1_1772_300_RGB.psd"
+                },
+                {
+                    "id": "272981",
+                    "nome": "7891035000089_1_1_1200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "1",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/arquivo/eSglcsqt6Sdquhs35g-RhW3cwvxxVpPY2zDPENT9YQQ/7891035000089_1_1_1200_72_RGB.png"
+                },
+                {
+                    "id": "272982",
+                    "nome": "7891035000089_33_1_200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "2",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/arquivo/A579X8C8l06tNMzSI-NdXnhnru9hTRu6ULVbQncCcu8/7891035000089_33_1_200_72_RGB.png"
+                },
+                {
+                    "id": "272976",
+                    "nome": "7891035000089_33_1_1772_300_RGB.psd",
+                    "tipo": "imagem",
+                    "ordem": "2",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/arquivo/2E-Og01Rc2AvsyUBz7BKgTyQMlivdVrCS_nB9dG-i6I/7891035000089_33_1_1772_300_RGB.psd"
+                },
+                {
+                    "id": "272983",
+                    "nome": "7891035000089_33_1_1200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "3",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/arquivo/ijuTpbIPqobhf5c_s8nGAzlztDmRFqWPeo4W08ylVFI/7891035000089_33_1_1200_72_RGB.png"
+                },
+                {
+                    "id": "272977",
+                    "nome": "7891035000089_33_1_3000_300_RGB.tif",
+                    "tipo": "imagem",
+                    "ordem": "3",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/arquivo/1JRSn4Lo-Ks4l-WGVYTxoG65f71xJjvj_yAFxFtHVvk/7891035000089_33_1_3000_300_RGB.tif"
+                },
+                {
+                    "id": "272978",
+                    "nome": "7891035000089_1_1_1200_300_CMYK.tif",
+                    "tipo": "imagem",
+                    "ordem": "4",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/arquivo/6YNE0ahWzG2oNx9SiktktVagP0EVpiOialBMcMwbtmo/7891035000089_1_1_1200_300_CMYK.tif"
+                },
+                {
+                    "id": "272984",
+                    "nome": "7891035000089_26_1_600_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "4",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/arquivo/MO1CnwQKIvvuE6mmm7QYvo6V41ZVgz6YXoDdN62itRQ/7891035000089_26_1_600_72_RGB.png"
+                },
+                {
+                    "id": "272979",
+                    "nome": "7891035000089_33_1_1200_300_CMYK.tif",
+                    "tipo": "imagem",
+                    "ordem": "5",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/arquivo/U0s275gqsCBH-suV_FZyccrn2pPPMrxp0yWXpGxy8Uw/7891035000089_33_1_1200_300_CMYK.tif"
+                },
+                {
+                    "id": "272985",
+                    "nome": "7891035000089_1_1_200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "5",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/arquivo/-MmIGxaeo1VcMUv7v5jwQ7rpfYdpMVk2AHe-KXeKuEE/7891035000089_1_1_200_72_RGB.png"
+                },
+                {
+                    "id": "272980",
+                    "nome": "7891035000089_1_1_3000_300_RGB.tif",
+                    "tipo": "imagem",
+                    "ordem": "6",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/arquivo/B_biyYz5XrhF6RTqZhQUEqKTzJ1h4xFbbZFxusr5P-E/7891035000089_1_1_3000_300_RGB.tif"
+                },
+                {
+                    "id": "272986",
+                    "nome": "7891035000089_1_1_1200_72_RGB.jpg",
+                    "tipo": "web",
+                    "ordem": "6",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/arquivo/OxWnP2Cl6M9lIQTj-SW7dbEdUZi4TIs99osEfSCcjW8/7891035000089_1_1_1200_72_RGB.jpg"
+                },
+                {
+                    "id": "272987",
+                    "nome": "7891035000089_33_1_1200_72_RGB.jpg",
+                    "tipo": "web",
+                    "ordem": "7",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/arquivo/LHz9seSmVn8wSxWqUyB4ZjX9mrxHOeOMMqaCRGkIkWI/7891035000089_33_1_1200_72_RGB.jpg"
+                },
+                {
+                    "id": "272988",
+                    "nome": "7891035000089_33_1_70_72_RGB.gif",
+                    "tipo": "web",
+                    "ordem": "8",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/arquivo/G-OVB84u7CtVcELst5dw2fIitYvB8C4xYmgZW4hr5FE/7891035000089_33_1_70_72_RGB.gif"
+                },
+                {
+                    "id": "272989",
+                    "nome": "7891035000089_1_1_70_72_RGB.gif",
+                    "tipo": "web",
+                    "ordem": "9",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/SIm6Z6ri5niXpkspWwny4zQ5B0_Lo_vHuvbYikS_P14/arquivo/VbyYBYzcDTpHJUwqKK3YuMcY2Z4Qksnrc5Q0UmxmxbI/7891035000089_1_1_70_72_RGB.gif"
+                }
+            ]
+        },
+        "27931": {
+            "id": "27931",
+            "sku": "2622092",
+            "nome": "LIMP VEJA BANHEIRO ANTIBAC RF 500ML",
+            "inclusao": "2020-09-02 14:49:05",
+            "modificacao": "2020-09-04 10:15:56",
+            "revisado": 0,
+            "ativado": 1,
+            "empresa": "D'avó",
+            "empresaId": "1",
+            "categoria": "Limpeza",
+            "categoriaId": "6",
+            "tags": {
+                "45": {
+                    "Campo": "Revisão E-commerce",
+                    "Valor": "Não"
+                },
+                "37": {
+                    "Campo": "EAN",
+                    "Valor": "7891035000119"
+                },
+                "14": {
+                    "Campo": "Gramatura",
+                    "Valor": null
+                },
+                "3": {
+                    "Campo": "Unidade",
+                    "Valor": null
+                },
+                "15": {
+                    "Campo": "Complemento",
+                    "Valor": null
+                },
+                "1": {
+                    "Campo": "Descrição",
+                    "Valor": "Branqueador Banheiro Veja Antibac Frasco 500ml Refil"
+                },
+                "38": {
+                    "Campo": "Descrição Curta",
+                    "Valor": "Pul Vj Ban- Refil"
+                },
+                "41": {
+                    "Campo": "Descrição Longa",
+                    "Valor": "Branqueador Banheiro sem Cloro Oxi Ativo Veja Antibac Frasco 500ml Refil"
+                },
+                "2": {
+                    "Campo": "Marca",
+                    "Valor": "Veja"
+                },
+                "39": {
+                    "Campo": "Fabricante",
+                    "Valor": "RECKITT BENCKISER (BRASIL) COMERCIAL DE PRODUTOS DE HIGIENE, LIMPEZA E COSMETICOS LTDA."
+                },
+                "40": {
+                    "Campo": "Nome Fantasia",
+                    "Valor": "RB"
+                },
+                "42": {
+                    "Campo": "Gramatura Simplus",
+                    "Valor": ""
+                },
+                "48": {
+                    "Campo": "Meta Title",
+                    "Valor": "Branqueador Banheiro Veja Antibac Frasco 500ml Refil"
+                },
+                "49": {
+                    "Campo": "Meta Description",
+                    "Valor": null
+                },
+                "46": {
+                    "Campo": "Palavras Chave",
+                    "Valor": null
+                },
+                "47": {
+                    "Campo": "Peso Variável",
+                    "Valor": null
+                }
+            },
+            "previews": [
+                {
+                    "id": "272990",
+                    "nome": "7891035000119_33_1_1772_300_RGB.psd",
+                    "tipo": "imagem",
+                    "ordem": "1",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/zJ9Y3ohh2rHwh_qfhb2Wct1IMY93jyqOQn-48EV5toc/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/zJ9Y3ohh2rHwh_qfhb2Wct1IMY93jyqOQn-48EV5toc/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272996",
+                    "nome": "7891035000119_26_1_600_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "1",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/B1HMNluFLxMxw90Z4MwqUi3Z-7WgiX2uWVthqukd2Tw/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/B1HMNluFLxMxw90Z4MwqUi3Z-7WgiX2uWVthqukd2Tw/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272997",
+                    "nome": "7891035000119_1_1_200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "2",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/wufniuoSnnV10wmW9rIiOkygNgZxnQaJblfUWG1SDx0/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/wufniuoSnnV10wmW9rIiOkygNgZxnQaJblfUWG1SDx0/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272991",
+                    "nome": "7891035000119_1_1_1772_300_RGB.psd",
+                    "tipo": "imagem",
+                    "ordem": "2",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/zZlmo-jTJf6tSvggaoD9UgRUptGAmS8TMfrQFqsJyPI/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/zZlmo-jTJf6tSvggaoD9UgRUptGAmS8TMfrQFqsJyPI/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272998",
+                    "nome": "7891035000119_1_1_1200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "3",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/1RvcbRT_vrePkJR2v2cXPdvV6LnlNoQM-ZewwwYOieE/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/1RvcbRT_vrePkJR2v2cXPdvV6LnlNoQM-ZewwwYOieE/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272992",
+                    "nome": "7891035000119_1_1_3000_300_RGB.tif",
+                    "tipo": "imagem",
+                    "ordem": "3",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/XIGRqpvy9dqANHf71Bf9xgceE_EiJhwrAnqi5uwAnAQ/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/XIGRqpvy9dqANHf71Bf9xgceE_EiJhwrAnqi5uwAnAQ/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272993",
+                    "nome": "7891035000119_33_1_1200_300_CMYK.tif",
+                    "tipo": "imagem",
+                    "ordem": "4",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/4Z57IO-YJkfPrkbZAargKss2Gl0ZbS-Qvgk-a12s_IY/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/4Z57IO-YJkfPrkbZAargKss2Gl0ZbS-Qvgk-a12s_IY/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272999",
+                    "nome": "7891035000119_33_1_200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "4",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/G96kLDP4lKuhwYWrboz7vykJfnmdiyeVvAhQgjbMss4/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/G96kLDP4lKuhwYWrboz7vykJfnmdiyeVvAhQgjbMss4/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272994",
+                    "nome": "7891035000119_1_1_1200_300_CMYK.tif",
+                    "tipo": "imagem",
+                    "ordem": "5",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/4OGcj69lvgYDj1ttfN72Yrh3QqLJtv1SxisqhhVaAY8/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/4OGcj69lvgYDj1ttfN72Yrh3QqLJtv1SxisqhhVaAY8/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "273000",
+                    "nome": "7891035000119_33_1_1200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "5",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/T49L3vUEIs8D85tyKpsRG-5zFOGQk0KNxlVCYydUdkw/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/T49L3vUEIs8D85tyKpsRG-5zFOGQk0KNxlVCYydUdkw/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "272995",
+                    "nome": "7891035000119_33_1_3000_300_RGB.tif",
+                    "tipo": "imagem",
+                    "ordem": "6",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/BkMwyeHcdZXv2xY6GbrGFoXpRNXd2zjHFqlH_-v-c4k/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/BkMwyeHcdZXv2xY6GbrGFoXpRNXd2zjHFqlH_-v-c4k/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "273001",
+                    "nome": "7891035000119_33_1_1200_72_RGB.jpg",
+                    "tipo": "web",
+                    "ordem": "6",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/Hbn-S_80RONoisQbN_pwoExloefzmxGnH5cQ3JgXkWY/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/Hbn-S_80RONoisQbN_pwoExloefzmxGnH5cQ3JgXkWY/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "273002",
+                    "nome": "7891035000119_1_1_1200_72_RGB.jpg",
+                    "tipo": "web",
+                    "ordem": "7",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/To6_f7itoLYXQNrkVFo7jYyn_pMO8QR6vTQsHykaWhk/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/To6_f7itoLYXQNrkVFo7jYyn_pMO8QR6vTQsHykaWhk/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "273003",
+                    "nome": "7891035000119_1_1_70_72_RGB.gif",
+                    "tipo": "web",
+                    "ordem": "8",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/6nsl_Zgrt6Bm8yYHjP3R6HA-Pv9E8htn3sLxUtjwyso/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/6nsl_Zgrt6Bm8yYHjP3R6HA-Pv9E8htn3sLxUtjwyso/canvas/true/preview.jpg"
+                },
+                {
+                    "id": "273004",
+                    "nome": "7891035000119_33_1_70_72_RGB.gif",
+                    "tipo": "web",
+                    "ordem": "9",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/_bU380ytObhubjDhEj8VSBhOb0dttFY4_74DWT8Apic/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/preview/_bU380ytObhubjDhEj8VSBhOb0dttFY4_74DWT8Apic/canvas/true/preview.jpg"
+                }
+            ],
+            "arquivos": [
+                {
+                    "id": "272990",
+                    "nome": "7891035000119_33_1_1772_300_RGB.psd",
+                    "tipo": "imagem",
+                    "ordem": "1",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/arquivo/zJ9Y3ohh2rHwh_qfhb2Wct1IMY93jyqOQn-48EV5toc/7891035000119_33_1_1772_300_RGB.psd"
+                },
+                {
+                    "id": "272996",
+                    "nome": "7891035000119_26_1_600_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "1",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/arquivo/B1HMNluFLxMxw90Z4MwqUi3Z-7WgiX2uWVthqukd2Tw/7891035000119_26_1_600_72_RGB.png"
+                },
+                {
+                    "id": "272997",
+                    "nome": "7891035000119_1_1_200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "2",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/arquivo/wufniuoSnnV10wmW9rIiOkygNgZxnQaJblfUWG1SDx0/7891035000119_1_1_200_72_RGB.png"
+                },
+                {
+                    "id": "272991",
+                    "nome": "7891035000119_1_1_1772_300_RGB.psd",
+                    "tipo": "imagem",
+                    "ordem": "2",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/arquivo/zZlmo-jTJf6tSvggaoD9UgRUptGAmS8TMfrQFqsJyPI/7891035000119_1_1_1772_300_RGB.psd"
+                },
+                {
+                    "id": "272998",
+                    "nome": "7891035000119_1_1_1200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "3",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/arquivo/1RvcbRT_vrePkJR2v2cXPdvV6LnlNoQM-ZewwwYOieE/7891035000119_1_1_1200_72_RGB.png"
+                },
+                {
+                    "id": "272992",
+                    "nome": "7891035000119_1_1_3000_300_RGB.tif",
+                    "tipo": "imagem",
+                    "ordem": "3",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/arquivo/XIGRqpvy9dqANHf71Bf9xgceE_EiJhwrAnqi5uwAnAQ/7891035000119_1_1_3000_300_RGB.tif"
+                },
+                {
+                    "id": "272993",
+                    "nome": "7891035000119_33_1_1200_300_CMYK.tif",
+                    "tipo": "imagem",
+                    "ordem": "4",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/arquivo/4Z57IO-YJkfPrkbZAargKss2Gl0ZbS-Qvgk-a12s_IY/7891035000119_33_1_1200_300_CMYK.tif"
+                },
+                {
+                    "id": "272999",
+                    "nome": "7891035000119_33_1_200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "4",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/arquivo/G96kLDP4lKuhwYWrboz7vykJfnmdiyeVvAhQgjbMss4/7891035000119_33_1_200_72_RGB.png"
+                },
+                {
+                    "id": "272994",
+                    "nome": "7891035000119_1_1_1200_300_CMYK.tif",
+                    "tipo": "imagem",
+                    "ordem": "5",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/arquivo/4OGcj69lvgYDj1ttfN72Yrh3QqLJtv1SxisqhhVaAY8/7891035000119_1_1_1200_300_CMYK.tif"
+                },
+                {
+                    "id": "273000",
+                    "nome": "7891035000119_33_1_1200_72_RGB.png",
+                    "tipo": "web",
+                    "ordem": "5",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/arquivo/T49L3vUEIs8D85tyKpsRG-5zFOGQk0KNxlVCYydUdkw/7891035000119_33_1_1200_72_RGB.png"
+                },
+                {
+                    "id": "272995",
+                    "nome": "7891035000119_33_1_3000_300_RGB.tif",
+                    "tipo": "imagem",
+                    "ordem": "6",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/arquivo/BkMwyeHcdZXv2xY6GbrGFoXpRNXd2zjHFqlH_-v-c4k/7891035000119_33_1_3000_300_RGB.tif"
+                },
+                {
+                    "id": "273001",
+                    "nome": "7891035000119_33_1_1200_72_RGB.jpg",
+                    "tipo": "web",
+                    "ordem": "6",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/arquivo/Hbn-S_80RONoisQbN_pwoExloefzmxGnH5cQ3JgXkWY/7891035000119_33_1_1200_72_RGB.jpg"
+                },
+                {
+                    "id": "273002",
+                    "nome": "7891035000119_1_1_1200_72_RGB.jpg",
+                    "tipo": "web",
+                    "ordem": "7",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/arquivo/To6_f7itoLYXQNrkVFo7jYyn_pMO8QR6vTQsHykaWhk/7891035000119_1_1_1200_72_RGB.jpg"
+                },
+                {
+                    "id": "273003",
+                    "nome": "7891035000119_1_1_70_72_RGB.gif",
+                    "tipo": "web",
+                    "ordem": "8",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/arquivo/6nsl_Zgrt6Bm8yYHjP3R6HA-Pv9E8htn3sLxUtjwyso/7891035000119_1_1_70_72_RGB.gif"
+                },
+                {
+                    "id": "273004",
+                    "nome": "7891035000119_33_1_70_72_RGB.gif",
+                    "tipo": "web",
+                    "ordem": "9",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/66INWmX2L3tjUyj9kMiCWcjSZRmYjfjYphAR-Dl7eYA/arquivo/_bU380ytObhubjDhEj8VSBhOb0dttFY4_74DWT8Apic/7891035000119_33_1_70_72_RGB.gif"
+                }
+            ]
+        },
+        "38119": {
+            "id": "38119",
+            "sku": "2622017",
+            "nome": "G DESOGESTREL 0,75MCG C/28 CP NEO QUIMIC",
+            "inclusao": "2020-09-04 21:34:20",
+            "modificacao": "2020-09-04 18:35:55",
+            "revisado": 0,
+            "ativado": 1,
+            "empresa": "D'avó",
+            "empresaId": "1",
+            "categoria": "Farma",
+            "categoriaId": "36",
+            "tags": {
+                "45": {
+                    "Campo": "Revisão E-commerce",
+                    "Valor": "Não"
+                },
+                "37": {
+                    "Campo": "EAN",
+                    "Valor": "7896714255019"
+                },
+                "14": {
+                    "Campo": "Gramatura",
+                    "Valor": null
+                },
+                "3": {
+                    "Campo": "Unidade",
+                    "Valor": null
+                },
+                "15": {
+                    "Campo": "Complemento",
+                    "Valor": null
+                },
+                "1": {
+                    "Campo": "Descrição",
+                    "Valor": null
+                },
+                "38": {
+                    "Campo": "Descrição Curta",
+                    "Valor": null
+                },
+                "41": {
+                    "Campo": "Descrição Longa",
+                    "Valor": null
+                },
+                "2": {
+                    "Campo": "Marca",
+                    "Valor": null
+                },
+                "39": {
+                    "Campo": "Fabricante",
+                    "Valor": null
+                },
+                "40": {
+                    "Campo": "Nome Fantasia",
+                    "Valor": null
+                },
+                "42": {
+                    "Campo": "Gramatura Simplus",
+                    "Valor": null
+                },
+                "48": {
+                    "Campo": "Meta Title",
+                    "Valor": "G DESOGESTREL 0,75MCG C/28 CP NEO QUIMIC "
+                },
+                "49": {
+                    "Campo": "Meta Description",
+                    "Valor": null
+                },
+                "46": {
+                    "Campo": "Palavras Chave",
+                    "Valor": null
+                },
+                "47": {
+                    "Campo": "Peso Variável",
+                    "Valor": null
+                }
+            },
+            "previews": [
+                {
+                    "id": "296465",
+                    "nome": "Caixa_Remedio_Generico.png",
+                    "tipo": "imagem",
+                    "ordem": "0",
+                    "preview": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/n4LN6PulhCrvwoiLJyMfwNMkkFOTPGeKdx7lyR8bLjY/preview/wWcZ-MvJ07p3ONhptFTU7Tt_Z5AZT8wwXUj-9vwEr98/preview.jpg",
+                    "previewCanvas": "http://wikimee.davo.com.br:8080/catalog/service/preview/id/n4LN6PulhCrvwoiLJyMfwNMkkFOTPGeKdx7lyR8bLjY/preview/wWcZ-MvJ07p3ONhptFTU7Tt_Z5AZT8wwXUj-9vwEr98/canvas/true/preview.jpg"
+                }
+            ],
+            "arquivos": [
+                {
+                    "id": "296465",
+                    "nome": "Caixa_Remedio_Generico.png",
+                    "tipo": "imagem",
+                    "ordem": "0",
+                    "arquivo": "http://wikimee.davo.com.br:8080/catalog/service/download/id/n4LN6PulhCrvwoiLJyMfwNMkkFOTPGeKdx7lyR8bLjY/arquivo/wWcZ-MvJ07p3ONhptFTU7Tt_Z5AZT8wwXUj-9vwEr98/Caixa_Remedio_Generico.png"
+                }
+            ]
+        },
+        "38120": {
+            "id": "38120",
+            "sku": "2622041",
+            "nome": "VITAMINA D 7000UI C/4 CAPS ALT",
+            "inclusao": "2020-09-04 21:34:20",
+            "modificacao": "2020-09-04 18:35:55",
+            "revisado": 0,
+            "ativado": 1,
+            "empresa": "D'avó",
+            "empresaId": "1",
+            "categoria": "Farma",
+            "categoriaId": "36",
+            "tags": {
+                "45": {
+                    "Campo": "Revisão E-commerce",
+                    "Valor": "Não"
+                },
+                "37": {
+                    "Campo": "EAN",
+                    "Valor": "7898569766603"
+                },
+                "14": {
+                    "Campo": "Gramatura",
+                    "Valor": null
+                },
+                "3": {
+                    "Campo": "Unidade",
+                    "Valor": null
+                },
+                "15": {
+                    "Campo": "Complemento",
+                    "Valor": null
+                },
+                "1": {
+                    "Campo": "Descrição",
+                    "Valor": null
+                },
+                "38": {
+                    "Campo": "Descrição Curta",
+                    "Valor": null
+                },
+                "41": {
+                    "Campo": "Descrição Longa",
+                    "Valor": null
+                },
+                "2": {
+                    "Campo": "Marca",
+                    "Valor": null
+                },
+                "39": {
+                    "Campo": "Fabricante",
+                    "Valor": null
+                },
+                "40": {
+                    "Campo": "Nome Fantasia",
+                    "Valor": null
+                },
+                "42": {
+                    "Campo": "Gramatura Simplus",
+                    "Valor": null
+                },
+                "48": {
+                    "Campo": "Meta Title",
+                    "Valor": "VITAMINA D 7000UI C/4 CAPS ALT "
+                },
+                "49": {
+                    "Campo": "Meta Description",
+                    "Valor": null
+                },
+                "46": {
+                    "Campo": "Palavras Chave",
+                    "Valor": null
+                },
+                "47": {
+                    "Campo": "Peso Variável",
+                    "Valor": null
+                }
+            },
+            "previews": [],
+            "arquivos": []
+        },
+        "38121": {
+            "id": "38121",
+            "sku": "2622050",
+            "nome": "LAVITAN KIDS SUSP TUTTI FRUTTI 240ML",
+            "inclusao": "2020-09-04 21:34:20",
+            "modificacao": "2020-09-04 18:35:55",
+            "revisado": 0,
+            "ativado": 1,
+            "empresa": "D'avó",
+            "empresaId": "1",
+            "categoria": "Farma",
+            "categoriaId": "36",
+            "tags": {
+                "45": {
+                    "Campo": "Revisão E-commerce",
+                    "Valor": "Não"
+                },
+                "37": {
+                    "Campo": "EAN",
+                    "Valor": "7897947614673"
+                },
+                "14": {
+                    "Campo": "Gramatura",
+                    "Valor": null
+                },
+                "3": {
+                    "Campo": "Unidade",
+                    "Valor": null
+                },
+                "15": {
+                    "Campo": "Complemento",
+                    "Valor": null
+                },
+                "1": {
+                    "Campo": "Descrição",
+                    "Valor": null
+                },
+                "38": {
+                    "Campo": "Descrição Curta",
+                    "Valor": null
+                },
+                "41": {
+                    "Campo": "Descrição Longa",
+                    "Valor": null
+                },
+                "2": {
+                    "Campo": "Marca",
+                    "Valor": null
+                },
+                "39": {
+                    "Campo": "Fabricante",
+                    "Valor": null
+                },
+                "40": {
+                    "Campo": "Nome Fantasia",
+                    "Valor": null
+                },
+                "42": {
+                    "Campo": "Gramatura Simplus",
+                    "Valor": null
+                },
+                "48": {
+                    "Campo": "Meta Title",
+                    "Valor": "LAVITAN KIDS SUSP TUTTI FRUTTI 240ML "
+                },
+                "49": {
+                    "Campo": "Meta Description",
+                    "Valor": null
+                },
+                "46": {
+                    "Campo": "Palavras Chave",
+                    "Valor": null
+                },
+                "47": {
+                    "Campo": "Peso Variável",
+                    "Valor": null
+                }
+            },
+            "previews": [],
+            "arquivos": []
+        }
+    }
+}
