@@ -1,0 +1,58 @@
+//lendo um arquivo json com node js
+
+<input type="text" id="codprod" placeholder="Código do Produto" width="250px">
+<input type="button" value="PESQUISAR" id="pesqwikimee">
+<div id="resultado" style="font-size: 25px;text-align: center;"></div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
+<script type="text/javascript">
+
+
+$( "#pesqwikimee" ).click(function() {
+  codprod = $("#codprod").val();
+ imagemwikimee(codprod);
+});
+
+function imagemwikimee(codprod){
+
+var urlImagem;
+var settings = {
+  "url": "https://api.davo.com.br:8088/catalog/rest/produtos?sku="+codprod,
+  "method": "GET",
+  "async": false,
+  "timeout": 0,
+  "headers": {
+    "Authorization": "Basic aW50ZWdyYWNhby5zY2FuOnVxV2pRckNuZnV1YlZsaThyYWNIY2RTazhqMWlNbTh6"
+  },
+};
+
+      $.ajax(settings).done(function (response) {
+          json = JSON.stringify(response);
+          imagem = JSON.parse(json);
+          i = 0;
+
+          do{
+          res= Object.keys(imagem.produtos)[i];
+          retorno = String(res);        
+          //urlImagem = imagem.produtos[retorno].tags[i].valor;
+
+          urlImagem = imagem.produtos[retorno].previews[i].previewCanvas;
+
+
+          //nomeImagem1 = imagem.produtos[retorno].nome;
+
+          nomeImagem1 = imagem.produtos[retorno].tags['45'].Valor;
+
+          //nomeImagem1 = imagem.produtos[retorno]['tags']['3']['valor'];
+
+          i++;
+
+          }while(codprod != imagem.produtos[retorno].sku || i==5)
+
+          $("#resultado").text(nomeImagem1);
+
+     });
+
+}
+
+</script>
