@@ -1,0 +1,4 @@
+git pull --force
+git reset --hard
+git clone www.caminho novonomedapasta
+git clean -d -f
