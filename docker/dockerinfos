@@ -1,0 +1,66 @@
+https://stackoverflow.com/questions/20259036/mysql-package-mysql-server-has-no-installation-candidate
+
+
+
+https://stackoverflow.com/questions/20259036/mysql-package-mysql-server-has-no-installation-candidate
+
+
+I experienced this issue when trying to install MySQL Server on Debian 10.
+
+Here's how I fixed it:
+
+The issue is caused by the MySQL server apt repository not being included in your system's software repository list. In Debian 10 for example, MariaDB, a community fork of the MySQL project, is packaged as the default MySQL variant.
+
+So to fix this first, add the MySQL server apt repository to your system's software repository list. Follow these steps:
+
+Go to the download page for the MySQL APT repository at:
+
+https://dev.mysql.com/downloads/repo/apt/
+Select and download the release package for your Linux distribution. You can use:
+
+sudo wget https://the-download-link
+In my case it was:
+
+sudo wget https://dev.mysql.com/get/mysql-apt-config_0.8.15-1_all.deb
+Install the downloaded release package with the following command, replacing version-specific-package-name with the name of the downloaded package (preceded by its path, if you are not running the command inside the folder where the package is):
+
+sudo dpkg -i version-specific-package-name.deb
+In my case it was:
+
+sudo dpkg -i mysql-apt-config_0.8.15-1_all.deb
+Note: dpkg is used to install, remove, and inspect .deb software packages. The -i flag indicates that we’d like to install from the specified file.
+
+During the installation, you’ll be presented with a configuration screen where you can specify which version of MySQL you’d prefer, along with an option to install repositories for other MySQL-related tools. The defaults will add the repository information for the latest stable version of MySQL and nothing else. This is what we want, so use the down arrow to navigate to the Ok menu option and hit ENTER.
+
+The package will now finish adding the repository. Refresh your apt package cache to make the new software packages available:
+
+sudo apt update
+Note: If you ever need to update the configuration of these repositories, just run sudo dpkg-reconfigure mysql-apt-config, select new options, and then sudo apt-get update to refresh your package cache.
+
+Install MySQL by the following command:
+
+sudo apt-get install mysql-server mysql-client libmysqlclient-dev
+Note: This installs the package for the MySQL server, as well as the packages for the client and for the database common files. During the installation, you are asked to supply a password for the root user for your MySQL installation.
+
+The MySQL server is started automatically after installation. You can check the status of the MySQLserver with the following command:
+
+sudo service mysql status
+Stop the MySQL server with the following command:
+
+sudo service mysql stop
+To restart the MySQL server, use the following command:
+
+sudo service mysql start
+MySQL creates a default user called root. You can change the password to any password of your choice by logging in to MySQL console using socket authentication:
+
+sudo mysql -u root
+Then run the command below to change the password
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'your-preferred-password';
+Reference:
+
+A Quick Guide to Using the MySQL APT Repository
+
+How To Install the Latest MySQL on Debian 10
+
+That's all.
